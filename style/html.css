@@ -10,21 +10,12 @@
      
     
 
-  
 }
-/* } 
-.work-sans-font {
-  font-family: "Work Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: weight;
-  font-style: normal;
-}
-.info h1{
-  font-family: "Work Sans" ;
-  color: black;
-} */
-
 body{
+  background-color: #111111;
+}
+
+.cart-nav{
   background-color: #111111;
   display:block ;
 background-image: url(/Images\ 2.png);
@@ -104,7 +95,7 @@ nav ul li a{
  .info{
   color: #FFFFFF;
   margin-left: 300px;
-  margin-top: -545px;
+  margin-top: -440px;
   font-weight: bolder;
   font-size: 2em;
 
@@ -133,7 +124,7 @@ nav ul li a{
    text-align: center;
   width: 180px;
   height: 90px;
-  margin-top:150px ;
+  margin-top:80px ;
   margin-left:1199px;
   border-radius:12px ; */
 
@@ -146,7 +137,7 @@ nav ul li a{
   color: #FFFFFF;
   background-color: #ffaf0f;
   width:170px ;
-  height:80px ;
+  height:90px ;
   margin-top: 250px ;
   margin-left: 890px;
   text-align: center;
@@ -163,6 +154,7 @@ margin-left: 200px;
 
 }
 .box1{
+  
   width: 200px;
   height: 45px;
   color: #FFFFFF;
@@ -188,13 +180,14 @@ margin-left: 200px;
 
 
 /* img leout style */
-.leout{
+.leout-1{
   display: flex;
   width: 1044px;
   height: ;
   margin-top: ;
   margin-left: 498px;
   gap: 58px;
+
 
 
 }
@@ -209,39 +202,41 @@ margin-left: 200px;
   line-height: ;
   letter:0.3px;
   /* align-items: center; */
+  color:#E6533C;
 }
 /* cintanier style */
-  .cintanier{
+ 
+.cintanier{
+display: flex;
 
-  display: flex;
   gap: 50px;
   margin-left: 350px;
 
   
   }
   .box-4{
-    width: 450px;
-    height: 90px;
+    width: 90px;
+    height: 80px;
     border: 2px solid black;
     border-radius: 45px 45px ;
    }
  .box-1{
-  width: 450px;
-  height: 90px;
+  width: 90px;
+  height: 80px;
   border: 2px solid black;
   border-radius: 45px 45px ;
     
   }
   .box-2{
-    width: 450px;
-    height: 90px;
+    width: 90px;
+    height: 80px;
     border: 2px solid black;
     border-radius: 45px 45px ;
     
   }
   .box-3{
-    width: 450px;
-    height: 90px;
+    width: 90px;
+    height: 80px;
     border: 2px solid black;
     border-radius: 45px 45px ;
   }
@@ -249,7 +244,7 @@ margin-left: 200px;
   .hetlain{
     color: #FFFFFF;
    display: flex;
-    gap: 100px;
+    gap: 50px;
     margin-left: 350px;
   
     
@@ -262,12 +257,16 @@ margin-left: 200px;
  
 
   .p{
- 
+ color: #E6533C;
  
     font-size: 10px;
   
-  
 
-
+  }
+  /* img style 3 */
+  .ran{
+    
+background-color: 
+#222222;
   }
   
